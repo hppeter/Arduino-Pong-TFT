@@ -1,6 +1,7 @@
 # Arduino-Pong-TFT
 Arduino Pong game for TFT with additional single player mode
 
+![promisechains](http://www.niederdieten.de/eigene/Pong_Tennis.jpg)
 
 
  Arduino Pong
@@ -23,9 +24,38 @@ Arduino Pong game for TFT with additional single player mode
   1 Button connected to 5V and A5 (A5 pulldown with 10K to GND)
   
   1 optional Buzzer connected to GND and D11
- 
   
-  In Menu select with Paddle 1 and Button. To start place paddle on "Start".
+  I soldered all wires directly to the Arduino board.
+ 
+  In Menu
+  Select options with Paddle 1 and Button.
+  To start place paddle on "Start".
   In Game press Button for exit
+  
+  The complete game mounted under an acryl sheet. I used small stripes of double sided adhesive Tape to glue the TFT.
+  ![promisechains](http://www.niederdieten.de/eigene/Pong_1.jpg)
+  
+  
+  
+  ![promisechains](http://www.niederdieten.de/eigene/Pong_2.jpg)
+  
+  
+  Here you can see the additional soldered A6 and A7 lines. If you don´t like
+  this you can use an Arduino MEGA oder any other Arduino with enough I/O lines.
+  ![promisechains](http://www.niederdieten.de/eigene/Pong_3.jpg)
+  
+  
+  Menu
+  ![promisechains](http://www.niederdieten.de/eigene/Pong_Menu.jpg)
+  
+  
+  Squash (single player mode)
+  ![promisechains](http://www.niederdieten.de/eigene/Pong_Squash.jpg)
+  
+  
+  Pong
+  ![promisechains](http://www.niederdieten.de/eigene/Pong_Tennis.jpg)
+  
+  
   
  
